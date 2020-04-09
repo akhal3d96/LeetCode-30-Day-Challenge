@@ -1,0 +1,22 @@
+{
+  "name": "30-day-leetcoding-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Best Time to Buy and Sell Stock II.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nemoload/LeetCode-30-Day-Challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nemoload/LeetCode-30-Day-Challenge/issues"
+  },
+  "homepage": "https://github.com/nemoload/LeetCode-30-Day-Challenge#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
